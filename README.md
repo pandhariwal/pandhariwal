@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Vinay Pandhariwal</h1>
-<h3 align="center">A Software Development Engineer currently pursuing Master of Science in Computer Science at Arizona State University.</h3>
+<h3 align="center">A Software Development Engineer currently working as Member of Technical Staff at Oracle, California, USA.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
